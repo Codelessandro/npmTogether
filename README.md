@@ -9,6 +9,8 @@ call the callback function passing null as error and the result of your calculat
 5. Take a coffee ☕
 6. Create a new npm package.
 7. Install your previous uploaded package as a dependency and also your neighbours package.
-8. Call one of the two functions and inside the callback call the second one. The inner callback should console log the final result.
+8. Call one of the two functions and inside the callback call the second one. The inner callback should console log the final result (your number put inside the composition of the two functions).
+9. Take a coffee ☕
+10. If still time: try to implement using Promises
 
 
